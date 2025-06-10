@@ -1,6 +1,6 @@
 # CODETECH-Personal Portfolio
 
-Welcome to **CODETECH-Personal Portfolio**! 🚀  
+Welcome to **Personal Portfolio**! 🚀  
 This repository contains my personal portfolio, showcasing my skills, projects, and experience in **programming, algorithms, data structures, UI design, and machine learning**.
 
 ## 🌟 Features
